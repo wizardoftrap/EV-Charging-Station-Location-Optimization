@@ -49,9 +49,7 @@ y=Number of charging points at each stations<br />
 
 ### Installation
 1. Ensure MATLAB is installed on your system.
-2. Clone this repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/yourusername/ev-charging-station-optimization.git
+2. Clone this repository to your local machine
 -Installation of EV charging Stations
 The comments contain the information about which index in a given array/structure contains which info so all those can be changed accordingly.
 1. Open all codes in matlab 
