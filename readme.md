@@ -12,8 +12,8 @@ This repository contains code for optimizing the placement and capacity of elect
   - **Voltage Stability Factor (VSF)**: Calculated using a **Forward-Backward Sweep** method.
   
 #### Function Photo
-![Objective 1 Function](ob_1.jpg)
-Where P is for congestion and Jacobian Matrix is for VSF
+![Objective 1 Function](ob_1.jpg)<br />
+Where P is for congestion and Jacobian Matrix is for VSF<br />
 
 #### Result Photo
 Results obtained from candidate selection
@@ -28,22 +28,22 @@ Results obtained from candidate selection
   - **Teaching-Learning-Based Optimization (TLBO)**: Optimizes the number of charging stations and points at each location.
 
 #### Function Photo
-![Objective 2 Function](ob_2.jpg)
-Where
-m= number of candidate locations
-x=Number of charging stations at each locations
-y=Number of charging points at each stations
-C=Total cost of charging stations
-ρ=Utilization rate of charging stationsρ
-λ=Arrival rate of EVs in charging stationsλ
-P=Probability of no EVs waiting in charging stations
+![Objective 2 Function](ob_2.jpg)<br />
+Where<br />
+m= number of candidate locations<br />
+x=Number of charging stations at each locations<br />
+y=Number of charging points at each stations<br />
+C=Total cost of charging stations<br />
+ρ=Utilization rate of charging stations<br />
+λ=Arrival rate of EVs in charging stations<br />
+P=Probability of no EVs waiting in charging stations<br />
 
 #### Result Photo
-![Objective 2 Results](result_2.jpg)
-Results[x,y]
-Where
-x=Number of charging stations at each locations
-y=Number of charging points at each stations
+![Objective 2 Results](result_2.jpg)<br />
+Results[x,y]<br />
+Where<br />
+x=Number of charging stations at each locations<br />
+y=Number of charging points at each stations<br />
 
 ## How to Run the Project
 
