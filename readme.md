@@ -12,10 +12,10 @@ This repository contains code for optimizing the placement and capacity of elect
   - **Voltage Stability Factor (VSF)**: Calculated using a **Forward-Backward Sweep** method.
   
 #### Function Photo
-![Objective 1 Function](path/to/ob_1.jpg)
+![Objective 1 Function](ob_1.jpg)
 
 #### Result Photo
-![Objective 1 Results](path/to/result_1.jpg)
+![Objective 1 Results](result_1.jpg)
 
 ### Objective 2: Minimizing Cost and Waiting Time
 
@@ -28,7 +28,7 @@ This repository contains code for optimizing the placement and capacity of elect
 ![Objective 2 Function](ob_2.jpg)
 
 #### Result Photo
-![Objective 2 Results](path/to/result_2.jpg)
+![Objective 2 Results](result_2.jpg)
 
 ## How to Run the Project
 
