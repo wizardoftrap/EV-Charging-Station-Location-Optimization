@@ -12,10 +12,10 @@ This repository contains code for optimizing the placement and capacity of elect
   - **Voltage Stability Factor (VSF)**: Calculated using a **Forward-Backward Sweep** method.
   
 #### Function Photo
-![Objective 1 Function](path/to/objective1_function_image.png)
+![Objective 1 Function](path/to/ob_1.jpg)
 
 #### Result Photo
-![Objective 1 Results](path/to/objective1_result_image.png)
+![Objective 1 Results](path/to/result_1.jpg)
 
 ### Objective 2: Minimizing Cost and Waiting Time
 
@@ -25,10 +25,10 @@ This repository contains code for optimizing the placement and capacity of elect
   - **Teaching-Learning-Based Optimization (TLBO)**: Optimizes the number of charging stations and points at each location.
 
 #### Function Photo
-![Objective 2 Function](path/to/objective2_function_image.png)
+![Objective 2 Function](ob_2.jpg)
 
 #### Result Photo
-![Objective 2 Results](path/to/objective2_result_image.png)
+![Objective 2 Results](path/to/result_2.jpg)
 
 ## How to Run the Project
 
