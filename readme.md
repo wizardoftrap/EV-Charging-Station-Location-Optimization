@@ -13,9 +13,12 @@ This repository contains code for optimizing the placement and capacity of elect
   
 #### Function Photo
 ![Objective 1 Function](ob_1.jpg)
+Where P is for congestion and Jacobian Matrix is for VSF
 
 #### Result Photo
+Results obtained from candidate selection
 ![Objective 1 Results](result_1.jpg)
+
 
 ### Objective 2: Minimizing Cost and Waiting Time
 
@@ -26,9 +29,21 @@ This repository contains code for optimizing the placement and capacity of elect
 
 #### Function Photo
 ![Objective 2 Function](ob_2.jpg)
+Where
+m= number of candidate locations
+x=Number of charging stations at each locations
+y=Number of charging points at each stations
+C=Total cost of charging stations
+ρ=Utilization rate of charging stationsρ
+λ=Arrival rate of EVs in charging stationsλ
+P=Probability of no EVs waiting in charging stations
 
 #### Result Photo
 ![Objective 2 Results](result_2.jpg)
+Results[x,y]
+Where
+x=Number of charging stations at each locations
+y=Number of charging points at each stations
 
 ## How to Run the Project
 
