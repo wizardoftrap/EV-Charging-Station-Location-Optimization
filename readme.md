@@ -45,6 +45,8 @@ Where<br />
 x=Number of charging stations at each locations<br />
 y=Number of charging points at each stations<br />
 
+## For more detailed explanation access file named TP.pdf
+
 ## How to Run the Project
 
 ### Installation
