@@ -60,7 +60,7 @@ The comments contain the information about which index in a given array/structur
 4. Run candidate code->Gives Candidate Locations
 5. Run TBLO code->Gives number of charging stations per loaction and number of charging points per station
 
-### Contributors
+## Contributors
 1. Shiv Prakash Verma
 2. Varun Sharma
 3. Akshit Pal
